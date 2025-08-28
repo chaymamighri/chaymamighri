@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="245" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Fpng%2F16407589-html-developer-3d-character-illustration&psig=AOvVaw2VAK4cwuOkKCUC0pD1kQeZ&ust=1756452607393000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCLC-xIX-rI8DFQAAAAAdAAAAABBa"  />
-</div>
+
 
 ###
 
@@ -64,24 +62,3 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img height="200" src=""  />
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src=""  />
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src=""  />
-</div>
-
-###
