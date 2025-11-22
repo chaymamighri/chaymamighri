@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://www.linkedin.com/in/chayma-mighri-00a29a2b0/" target="_blank">
+  <a href="www.linkedin.com/in/mighri-chayma-00a29a2b0" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0A66C2&logoColor=white&style=for-the-badge" height="30" alt="LinkedIn" />
   </a>
   <a href="https://wa.me/42316275" target="_blank">
@@ -48,7 +48,7 @@ I am a third-year student in Information Technology, specializing in Information
 
 <h3 align="left">📫 Contact Me</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/chayma-mighri-00a29a2b0/" target="_blank">LinkedIn</a> | 
+<a href="www.linkedin.com/in/mighri-chayma-00a29a2b0" target="_blank">LinkedIn</a> | 
 <a href="https://wa.me/42316275" target="_blank">WhatsApp</a> | 
 <a href="mailto:chaymamighri942@gmail.com" target="_blank">Gmail</a>
 </p>
