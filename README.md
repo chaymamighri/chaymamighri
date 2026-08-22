@@ -54,7 +54,7 @@ Recent graduate with a Bachelor’s degree in Information Technology, specializi
 <h3 align="left">📫 Contact Me</h3>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/mighri-chayma/" target="_blank">LinkedIn</a> |
+<a href="https://www.linkedin.com/in/chayma-mighri/" target="_blank">LinkedIn</a> |
 <a href="mailto:chaymamighri942@gmail.com">Email</a>
 </p>
 
